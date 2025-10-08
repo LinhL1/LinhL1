@@ -21,8 +21,8 @@ Somehow I started by printing <strong>"Hello, World,"</strong> and now I'm worki
 
 
 ![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhL1&show_icons=true&theme=graywhite&hide_border=true&title_color=5C715E&icon_color=7B8C74&text_color=3F3F3F&bg_color=FAF9F6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhL1&layout=compact&theme=graywhite&hide_border=true&bg_color=FAF9F6&title_color=5C715E&text_color=3F3F3F&icon_color=7B8C74)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhL1)
 
 
 ### 💌 Let’s Connect
