@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=600&color=7B8C74&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Linh)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=7B8C74&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Linh;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 ---
 
 ![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhL1&show_icons=true&theme=graywhite&hide_border=true&title_color=5C715E&icon_color=7B8C74&text_color=3F3F3F&bg_color=FFFFFF)
