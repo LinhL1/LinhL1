@@ -1,11 +1,22 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Linh!)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=600&color=7B8C74&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Linh+🌿;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-GitHub Stats
-![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhL1&show_icons=true&theme=tokyonight)
+---
 
-💌 Lets Connect 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/-Say%20Hi!-pink?logo=gmail&logoColor=white)](mailto:lle34250@gmail.com)
+![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhL1&show_icons=true&theme=graywhite&hide_border=true&title_color=5C715E&icon_color=7B8C74&text_color=3F3F3F&bg_color=FFFFFF)
+
+---
+
+### 🤎 Let’s Connect
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-5C715E?style=for-the-badge&logo=linkedin&logoColor=EDEADE"/>
+</a>
+<a href="mailto:lle34250@gmail.com">
+  <img src="https://img.shields.io/badge/-Say%20Hi!-B8B29E?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
+
+</div>
