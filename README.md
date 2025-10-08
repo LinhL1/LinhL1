@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=26&duration=4000&pause=1000&color=7B8C74&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Linh!)](https://git.io/typing-svg)
 
 
-### **About Me**
+### *About Me*
 <p align="center" style="max-width:600px;">
 Somehow I started by printing <strong>"Hello, World,"</strong> and now I'm working toward exploring AI and its intersection with cybersecurity. I enjoy learning new things and supporting meaningful—or just-for-fun—projects. In my spare time, I love to read, journal, and spend time with my bird.
 </p>
 
 
 
-### **Areas of Interest**
+### *Areas of Interest*
 <p align="center" style="max-width:600px;">
 <strong>Artificial Intelligence & Machine Learning</strong><br>
 <strong>Cybersecurity</strong><br>
