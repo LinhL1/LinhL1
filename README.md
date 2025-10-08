@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=600&color=7B8C74&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Linh+🌿;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=600&color=7B8C74&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Linh)](https://git.io/typing-svg)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 🤎 Let’s Connect
+### 💌 Let’s Connect
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-5C715E?style=for-the-badge&logo=linkedin&logoColor=EDEADE"/>
