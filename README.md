@@ -4,7 +4,7 @@
 
 
 GitHub Stats
-![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhL1&show_icons=true&theme=tokyonight)
 
 💌 Lets Connect 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
