@@ -1,11 +1,27 @@
-
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=7B8C74&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Linh)](https://git.io/typing-svg)
+
 ---
 
 ![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhL1&show_icons=true&theme=graywhite&hide_border=true&title_color=5C715E&icon_color=7B8C74&text_color=3F3F3F&bg_color=FFFFFF)
+
+---
+
+### About Me
+
+Somehow I started by printing "Hello, World," and now I'm working toward exploring AI and its intersection with cybersecurity. I enjoy learning new things and supporting meaningful—or just-for-fun—projects. In my spare time, I love to read, journal, and spend time with my bird.
+
+> “”
+
+---
+
+### Areas of Interest
+
+**AI/ML**
+**Cybersecurity**
+**Digital Ethics & Privacy** 
+**Automation & Emerging Tech**
 
 ---
 
