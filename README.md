@@ -8,7 +8,6 @@
 <strong>Cybersecurity</strong><br>
 <strong>Digital Ethics & Privacy</strong><br>
 <strong>Artificial Intelligence & Machine Learning</strong><br>
-<strong>Cybersecurity</strong><br>
 </p>
 
 
