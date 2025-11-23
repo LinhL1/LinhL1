@@ -48,7 +48,6 @@ Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my b
 
   <!-- Databases & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" height="50"/>
 </p>
 
 
