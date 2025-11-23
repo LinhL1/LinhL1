@@ -8,9 +8,9 @@ Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my b
 
 ### *Areas of Interest*
 <p style="max-width:600px; text-align: left;">
-<strong>Cybersecurity</strong><br>
-<strong>Digital Ethics & Privacy</strong><br>
-<strong>Artificial Intelligence & Machine Learning</strong><br>
+- <strong>Cybersecurity</strong><br>
+- <strong>Digital Ethics & Privacy</strong><br>
+- <strong>Artificial Intelligence & Machine Learning</strong><br>
 </p>
 
 <!-- ⭐ STATS + LANGUAGES SIDE BY SIDE ⭐ -->
