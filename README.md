@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=26&duration=4000&pause=1000&color=7B8C74&width=500&lines=Hi+there!)](https://git.io/typing-svg)
 
 <p style="font-size: 14px; color: #3F3F3F;">
-Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my bird. I'm currently working on a full-stack project with some folks, and I look forward to exploring digital safety and ethics in the development and deployment of technology.
+Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my bird. I'm currently working on a full-stack project with some folks, and I look forward to exploring digital safety/ethics in the development and deployment of technology.
 </p>
 
 ### *Areas of Interest*
