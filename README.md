@@ -1,21 +1,19 @@
-<div align="center" style="font-family: 'Merriweather', serif;">
+<div style="font-family: 'Merriweather', serif; text-align: left;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=26&duration=4000&pause=1000&color=7B8C74&center=true&vCenter=true&width=500&lines=Hi+there!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=26&duration=4000&pause=1000&color=7B8C74&width=500&lines=Hi+there!)](https://git.io/typing-svg)
+<p style="font-size: 14px; color: #3F3F3F;">
+Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my bird. I'm currently working on a full-stack project with some folks, and I look forward to exploring digital safety and ethics in the development and deployment of technology</p>
 
 ### *Areas of Interest*
-<p align="center" style="max-width:600px;">
+<p style="max-width:600px; text-align: left;">
 <strong>Cybersecurity</strong><br>
 <strong>Digital Ethics & Privacy</strong><br>
 <strong>Artificial Intelligence & Machine Learning</strong><br>
 </p>
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhL1&show_icons=true&theme=graywhite&hide_border=true&title_color=5C715E&icon_color=7B8C74&text_color=3F3F3F&bg_color=FAF9F6)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhL1&layout=compact&theme=graywhite&hide_border=true&bg_color=FAF9F6&title_color=5C715E&text_color=3F3F3F&icon_color=7B8C74)
-
-
 
 ### 💌 Let’s Connect
 
