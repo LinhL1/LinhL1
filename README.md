@@ -32,23 +32,25 @@ Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my b
 </div>
 
 ### Stuff I've worked with
+
 <p>
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-5C715E?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Python-5C715E?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/HTML5-5C715E?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-5C715E?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-5C715E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
 
   <!-- Libraries & Frameworks -->
-  <img src="https://img.shields.io/badge/Pandas-5C715E?style=for-the-badge&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/Bootstrap-5C715E?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-  <img src="https://img.shields.io/badge/Laravel-5C715E?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50"/>
 
   <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-5C715E?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/phpMyAdmin-5C715E?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" height="50"/>
 </p>
+
 
 
 </div>
