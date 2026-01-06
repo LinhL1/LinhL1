@@ -14,21 +14,8 @@ Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my b
 </p>
 
 <!-- ⭐ STATS + LANGUAGES SIDE BY SIDE ⭐ -->
-<div style="display: flex; gap: 20px; align-items: center;">
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinhL1&show_icons=true&theme=graywhite&hide_border=true&title_color=5C715E&icon_color=7B8C74&text_color=3F3F3F&bg_color=FAF9F6) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinhL1&layout=compact&theme=graywhite&hide_border=true&bg_color=FAF9F6&title_color=5C715E&text_color=3F3F3F)
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LinhL1&show_icons=true&theme=graywhite&hide_border=true&title_color=5C715E&icon_color=7B8C74&text_color=3F3F3F&bg_color=FAF9F6"
-    alt="GitHub Stats"
-    style="height: 170px;"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinhL1&layout=compact&theme=graywhite&hide_border=true&bg_color=FAF9F6&title_color=5C715E&text_color=3F3F3F&icon_color=7B8C74"
-    alt="Top Languages"
-    style="height: 170px;"
-  />
-
-</div>
 
 ### Stuff I've worked with
 
