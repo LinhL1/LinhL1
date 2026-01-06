@@ -10,7 +10,7 @@ Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my b
 <p style="max-width:600px; text-align: left;">
 - <strong>Cybersecurity</strong><br>
 - <strong>Digital Ethics & Privacy</strong><br>
-- <strong>Artificial Intelligence & Machine Learning</strong><br>
+- <strong>Web development</strong><br>
 </p>
 
 
