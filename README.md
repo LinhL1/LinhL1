@@ -37,11 +37,7 @@ Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my b
 
 ### 💌 Let’s Connect
 
-<a href="https://linkedin.com/in/linh-le-50751024b" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-5C715E?style=for-the-badge&logo=linkedin&logoColor=EDEADE"/>
-</a>
-<a href="mailto:lle34250@gmail.com">
-  <img src="https://img.shields.io/badge/-Say%20Hi!-B8B29E?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-5C715E?style=for-the-badge&logo=linkedin&logoColor=EDEADE)](https://linkedin.com/in/linh-le-50751024b)
+[![Say Hi!](https://img.shields.io/badge/-Say%20Hi!-B8B29E?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:lle34250@gmail.com)
 
 </div>
