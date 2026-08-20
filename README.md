@@ -9,6 +9,7 @@ Fancy seeing you here, I'm Linh. I enjoy tinkering around and building projects,
 <p style="max-width:600px; text-align: left;">
 - <strong>Product Management</strong><br>
 - <strong>Software Development</strong><br>
+- <strong>UX/UI</strong><br>
 - <strong>Digital Safety and Ethics</strong><br>
 </p>
 
