@@ -2,14 +2,14 @@
 
 <h1 style="font-size: 18px; color: #3F3F3F;">Hi there!</h1>
 <p style="font-size: 14px; color: #3F3F3F;">
-Fancy seeing you here, I'm Linh. I like to read, do yoga, and hang out with my bird. I'm currently working on a full-stack project with some folks, and I enjoy exploring digital safety/ethics in the development and deployment of technology.
+Fancy seeing you here, I'm Linh. I enjoy tinkering around and building projects, when I'm not on my laptop you can catch me journaling, doing yoga, and hanging out with my bird.
 </p>
 
 ### *Areas of Interest*
 <p style="max-width:600px; text-align: left;">
-- <strong>Cybersecurity</strong><br>
-- <strong>Digital Ethics & Saftey</strong><br>
-- <strong>Web development</strong><br>
+- <strong>Product Management</strong><br>
+- <strong>Software Development</strong><br>
+- <strong>Digital Safety and Ethics</strong><br>
 </p>
 
 
