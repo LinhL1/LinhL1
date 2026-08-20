@@ -16,7 +16,7 @@ Fancy seeing you here, I'm Linh. I enjoy tinkering around and building projects,
 
 ### 💌 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F3E7B3?style=for-the-badge&logo=linkedin&logoColor=6B6250)](https://linkedin.com/in/linh-le-50751024b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F3E7B3?style=for-the-badge&logo=linkedin&logoColor=6B6250)](https://linkedin.com/in/linh-le-50751024b)<br>
 📧 lvnh.le11@gmail.com
 
 </div>
