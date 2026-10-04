@@ -1,10 +1,10 @@
 ```text
-┌─[ linh@github ]────────────────────────────────────────
+┌─[ linh@github ]───────────────────────────────────────┐
 │                                                       │
 │  LINH LE                                              │
-│  CS student · builder · friend                        │
+│  CS student - builder - friend                        │
 │                                                       │
-└────────────────────────────────────────────────────────
+└───────────────────────────────────────────────────────┘
 
 Fancy seeing you here, I'm Linh.
 
@@ -18,12 +18,12 @@ doing yoga, and hanging out with my bird.
 
 $ interests
 
-  cybersecurity • software •  AI  •  product
+  cybersecurity - software -  AI  -  product
 
 
 $ built
 
-  web apps  •  mobile apps  •  browser extensions  •  AI agents
+  web apps  -  mobile apps  -  browser extensions  -  AI agents
 
 
 $ currently_exploring
@@ -43,4 +43,5 @@ $ contact
 ────────────────────────────────────────────────────────────
 
                          ><(((°>
+
 ```
