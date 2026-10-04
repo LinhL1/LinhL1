@@ -4,8 +4,6 @@
 │  LINH LE
 │  CS student · builder · friend
 │
-│  software · security · product
-│
 └────────────────────────────────────────────────────────
 
 Fancy seeing you here, I'm Linh.
@@ -20,18 +18,18 @@ doing yoga, and hanging out with my bird.
 
 $ interests
 
-  cybersecurity  •  AI  •  software  •  product
+  cybersecurity • software •  AI  •  product
 
 
 $ built
 
-  web apps  •  mobile apps  •  extensions  •  AI agents
+  web apps  •  mobile apps  •  browser extensions  •  AI agents
 
 
 $ currently_exploring
 
-  > threat hunting
   > Cybersecurity
+  > threat hunting
   > AI agents
   > system architecture
 
