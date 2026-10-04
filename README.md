@@ -9,7 +9,7 @@
 Fancy seeing you here, I'm Linh.
 
 I enjoy tinkering around and building projects. I've built
-across the stack--rom websites and mobile apps to browser
+across the stack--from websites and mobile apps to browser
 extensions and AI agents.
 
 When I'm not on my laptop, you can catch me journaling,
