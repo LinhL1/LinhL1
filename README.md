@@ -1,9 +1,9 @@
 ```text
 ┌─[ linh@github ]────────────────────────────────────────
-│
-│  LINH LE
-│  CS student · builder · friend
-│
+│                                                       │
+│  LINH LE                                              │
+│  CS student · builder · friend                        │
+│                                                       │
 └────────────────────────────────────────────────────────
 
 Fancy seeing you here, I'm Linh.
