@@ -6,7 +6,7 @@
 │                                                       │
 └───────────────────────────────────────────────────────┘
 
-Fancy seeing you here, I'm Linh.
+Fancy seeing you here, I'm Linh!
 
 I enjoy tinkering around and building projects. I've built
 across the stack--from websites and mobile apps to browser
